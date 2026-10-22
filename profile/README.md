@@ -1,59 +1,33 @@
-<p align="center">
-  <img src="assets/archive-divider.png" alt="" width="94%" />
-</p>
+![White citadel on coastal cliffs below the moon](assets/swagalabs-citadel-banner.png)
 
-<p align="center">
-  <img src="assets/swagalabs-wordmark.png" alt="SWAGA LABS" width="68%" />
-</p>
+![SWAGA LABS](assets/swagalabs-sky-wordmark.png)
 
-<p align="center">
-  <code>ARCHIVE NODE // VER 2002.11 // CHANNEL OPEN</code>
-</p>
+**Build strange things under a wide blue sky.**
 
-<p align="center">
-  <img src="assets/archive-divider.png" alt="" width="94%" />
-</p>
+![Services](https://img.shields.io/badge/SERVICES-123D90?style=for-the-badge&labelColor=F5F1E7)
+![Tools](https://img.shields.io/badge/TOOLS-123D90?style=for-the-badge&labelColor=F5F1E7)
+![Lab](https://img.shields.io/badge/LAB-123D90?style=for-the-badge&labelColor=F5F1E7)
 
-## [01] Field archive
+---
 
-**SwagaLabs** — место для сервисов, инструментов и экспериментов. Не витрина с героями, а старый системный терминал: полевые сканы, гербарий, схемы и рабочие артефакты в одном архиве.
+## A quiet place for working things
 
-<p align="center">
-  <img src="assets/references/field-04-pond.png" alt="Архивный ландшафт с прудом и каменной аркой" width="94%" />
-</p>
+SwagaLabs builds services, tools and experiments that are useful enough to keep. The landscape is spacious; the work is concrete.
 
-<p align="center">
-  <img src="assets/shield-register.png" alt="Три щита SwagaLabs: services, tools, lab" width="94%" />
-</p>
+| Services | Tools | Lab |
+| --- | --- | --- |
+| APIs, backend and product logic. | Small utilities and automation. | Prototypes and things worth testing. |
 
-| `SERVICES` | `TOOLS` | `LAB` |
-| :---: | :---: | :---: |
-| Backend, API и прикладная логика. | Утилиты, автоматизация и маленькие полезные штуки. | Прототипы, визуальные эксперименты и незакрытые вопросы. |
+![White-stone emblems for services, tools and lab](assets/shield-register.png)
 
-<p align="center">
-  <img src="assets/archive-divider.png" alt="" width="94%" />
-</p>
+---
 
-## [02] Archive fragments
+## The long way up
 
-<p align="center">
-  <img src="assets/references/field-01-valley.png" alt="Field record: valley" width="30%" />
-  <img src="assets/references/field-03-botany.png" alt="Field record: botany" width="30%" />
-  <img src="assets/references/archive-01.png" alt="Field record: archer scan" width="30%" />
-</p>
+White stone, ultramarine sky and a single clear direction. The rest is work.
 
-<p align="center">
-  <img src="assets/references/field-05-gate.png" alt="Field record: forest gate" width="46%" />
-  <img src="assets/references/field-02-coast.png" alt="Field record: coast" width="46%" />
-</p>
+![Citadel and knight](assets/references/citadel-knight.jpeg)
 
-<p align="center">
-  <img src="assets/archive-divider.png" alt="" width="94%" />
-</p>
+---
 
-## [03] Signal
-
-Если что-то здесь помогло — ставь звезду, открывай issue или приноси идею. Пишем по делу, не притворяемся корпорацией и держим архив живым.
-
-<p align="center"><sub>SWAGA LABS · FIELD ARCHIVE · NO HEROES ON THE POSTER</sub></p>
-
+`SWAGA LABS · ULTRAMARINE / WHITE STONE / OPEN HORIZON`
